@@ -14,19 +14,19 @@ declare module '#app' {
 
 export default defineNuxtPlugin(nuxtApp=>{
     const app = initializeApp({
-        apiKey: "AIzaSyC8saPftAbIpW62aA7EdoIBWqiiUVSfCTM",
+        apiKey: "",
 
-        authDomain: "tudu-app-5eb1f.firebaseapp.com",
+        authDomain: "",
       
-        projectId: "tudu-app-5eb1f",
+        projectId: "",
       
-        storageBucket: "tudu-app-5eb1f.appspot.com",
+        storageBucket: "",
       
-        messagingSenderId: "496234949728",
+        messagingSenderId: "",
       
-        appId: "1:496234949728:web:23d5e9e5c6e7122ed96705",
+        appId: "",
       
-        measurementId: "G-DLQS16NJBD"
+        measurementId: ""
       
       
       });
